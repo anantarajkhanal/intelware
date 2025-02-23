@@ -60,8 +60,24 @@ Create a Discord bot and obtain a bot token.
 Update the script:
 Open the script in a text editor and replace BotToken with your own bot token.
 
-Run the bot:
+Run the bot in the target machine:
 python script.py
+
+How to control the machine:
+
+go to your discord where the bot is deployed and use these commands:
+
+- camera on: start the camera 
+
+- camera off: turn off the camera
+
+- $: send command to cmd 
+
+- screen on: start the screenshot
+
+- screen off: turn off the screenshot
+
+- \help: show all instructions
 
 
 :scroll: Legal & Ethical Guidelines
