@@ -3,7 +3,7 @@ Intelware
 Remote System Interaction via Discord
 (Educational Use Only)
 
-by: anantarajkhana
+by: anantarajkhanal
 -
 
 
